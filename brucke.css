@@ -1,0 +1,82 @@
+body {
+    background-color: #f2f2f2;
+    background-color: #fafafa;   
+    background-color: #353435;
+}
+
+.nav {
+    background-color: #f2f2f2;
+    background-color: #fafafa;
+    background-color: #353435;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+nav img {
+    height: 100%;
+}
+
+.resaltar {
+    text-align: center;
+    font-family: fantasy;
+    background: linear-gradient(#f2f2f2,#d02017);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.general {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #f2f2f2;
+}
+
+.bordear {
+    border-color: black;
+    border-width: 100px;
+    border: black;
+}
+
+.caption h3 {
+    color: black;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 500%;
+    background-color: #fafafa50;    
+}
+
+footer {
+    background-color: black;
+    margin-top: 20px;
+}
+
+footer .container {
+    background-color: black;
+    color: rgb(200, 200, 200);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+footer h5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #c23b22;
+}
+
+footer h6 {
+    font-family: optima;
+}
+
+footer .fa {
+    font-size: 250%;
+    color: rgb(128, 128, 128);
+    margin-top: 15px;
+}
+
+footer .container p {
+    display: flex;
+    justify-content: flex-end;
+    font-family: monospace;
+    font-weight: 900;
+}
